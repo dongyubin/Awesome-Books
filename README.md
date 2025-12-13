@@ -3,6 +3,10 @@
 
 💕 **整理不易，欢迎Follow, Star后面会持续更新** 💕
 
+## 💴副业
+
+1. [网盘拉新资源+独家渠道+教程，新手也能上手操作！](https://www.wangdu.site/course/fuyejingyan/2250.html)
+
 ## 📕书籍推荐
 
 ### 📖 《富爸爸，穷爸爸》
