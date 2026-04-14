@@ -1,11 +1,20 @@
-# Awesome-Books
-2025年12月更新，什么值得读，收集整理最全出海、赚钱、一人公司相关书籍及指南
+# Awesome-Indiehackers-Books
+2026年4月14日更新，什么值得读，收集整理最全出海、赚钱、理财、副业、一人公司书籍及指南教程
 
 💕 **整理不易，欢迎Follow, Star后面会持续更新** 💕
 
 ## 💴副业
 
 1. [网盘拉新资源+独家渠道+教程，新手也能上手操作！](https://www.wangdu.site/course/fuyejingyan/2250.html)
+
+## 一人公司、出海收款、AI 副业、独立开发者全流程
+
+1.  [easychen/opc-methodology: 《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群。](https://github.com/easychen/opc-methodology)：一人公司完整方法论 选题、定价、获客、运营全流程 想一个人跑通闭环的先看这个
+2. [hua1995116/indiehackers-steps: 《独立开发者的艺术》打造最全的独立开发者指南，一人公司。](https://github.com/hua1995116/indiehackers-steps)：出海实战指南 注册美国 LLC、申请 EIN、开通 Stripe 手把手从零开始，别花冤枉钱找代办
+3. [XiaomingX/ai-money-maker-handbook: ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights.](https://github.com/XiaomingX/ai-money-maker-handbook)：AI 副业赚钱思路大全 各种 AI 工具做副业的玩法和案例
+4. [wasp-lang/open-saas: A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadcn UI, S3 file upload. AI-ready with tailored AGENTS.md, skills, and Claude Code plugin. One cmd deploy. Powered by Wasp full-stack framework.](https://github.com/wasp-lang/open-saas)：免费 SaaS 启动模板 内置 Stripe 支付 + 认证 + 邮件 + 订阅管理 React + NodeJS + Prisma，拿来就能跑
+5. [mezod/awesome-indie: Resources for independent developers to make money](https://github.com/mezod/awesome-indie)：独立开发者变现资源合集 出海独立开发的经典入门参考
+6. [1c7/chinese-independent-developer: 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么](https://github.com/1c7/chinese-independent-developer)：中国独立开发者项目汇总 看看国内同行在做什么、怎么变现 选题没灵感的时候翻一翻
 
 ## 📕书籍推荐
 
