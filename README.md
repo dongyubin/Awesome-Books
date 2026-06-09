@@ -1,7 +1,9 @@
 # Awesome-Indiehackers-Books
-2026年4月14日更新，什么值得读，收集整理最全出海、赚钱、理财、副业、一人公司书籍及指南教程
+2026年6月9日更新，什么值得读，收集整理最全SEO出海、赚钱、理财、副业、一人公司书籍、小报童及指南教程
 
 💕 **整理不易，欢迎Follow, Star后面会持续更新** 💕
+
+- [Awesome-Zlibrary](https://github.com/dongyubin/Awesome-Zlibrary)：Zlibrary最新镜像网站：国内轻松访问，免费图书下载的新天地
 
 ## 💴副业
 
@@ -10,13 +12,84 @@
 ## 一人公司、出海收款、AI 副业、独立开发者全流程
 
 1.  [easychen/opc-methodology: 《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群。](https://github.com/easychen/opc-methodology)：一人公司完整方法论 选题、定价、获客、运营全流程 想一个人跑通闭环的先看这个
-2. [hua1995116/indiehackers-steps: 《独立开发者的艺术》打造最全的独立开发者指南，一人公司。](https://github.com/hua1995116/indiehackers-steps)：出海实战指南 注册美国 LLC、申请 EIN、开通 Stripe 手把手从零开始，别花冤枉钱找代办
-3. [XiaomingX/ai-money-maker-handbook: ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights.](https://github.com/XiaomingX/ai-money-maker-handbook)：AI 副业赚钱思路大全 各种 AI 工具做副业的玩法和案例
-4. [wasp-lang/open-saas: A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadcn UI, S3 file upload. AI-ready with tailored AGENTS.md, skills, and Claude Code plugin. One cmd deploy. Powered by Wasp full-stack framework.](https://github.com/wasp-lang/open-saas)：免费 SaaS 启动模板 内置 Stripe 支付 + 认证 + 邮件 + 订阅管理 React + NodeJS + Prisma，拿来就能跑
-5. [mezod/awesome-indie: Resources for independent developers to make money](https://github.com/mezod/awesome-indie)：独立开发者变现资源合集 出海独立开发的经典入门参考
-6. [1c7/chinese-independent-developer: 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么](https://github.com/1c7/chinese-independent-developer)：中国独立开发者项目汇总 看看国内同行在做什么、怎么变现 选题没灵感的时候翻一翻
+2.  [hua1995116/indiehackers-steps: 《独立开发者的艺术》打造最全的独立开发者指南，一人公司。](https://github.com/hua1995116/indiehackers-steps)：出海实战指南 注册美国 LLC、申请 EIN、开通 Stripe 手把手从零开始，别花冤枉钱找代办
+3.  [XiaomingX/ai-money-maker-handbook: ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights.](https://github.com/XiaomingX/ai-money-maker-handbook)：AI 副业赚钱思路大全 各种 AI 工具做副业的玩法和案例
+5.  [mezod/awesome-indie: Resources for independent developers to make money](https://github.com/mezod/awesome-indie)：独立开发者变现资源合集 出海独立开发的经典入门参考
+6.  [1c7/chinese-independent-developer: 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么](https://github.com/1c7/chinese-independent-developer)：中国独立开发者项目汇总 看看国内同行在做什么、怎么变现 选题没灵感的时候翻一翻
+
+## SaaS服务（个人快速建站）
+
+>减少从零开发的成本，留出更多时间来专注上站自己的产品，无需研究下面技术问题
+>
+>- 用户登录（Google/邮箱）：3天
+>- 支付系统（Stripe订阅）：5天
+>- 国际化（中英日）：2天
+>- SEO优化：2天
+>- 后台管理：3天
+>- 邮件系统：1天
+
+| 你的目标                                  | 推荐优先看                                            | 适合原因                                                     |
+| ----------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------------ |
+| 想做中文友好、模块全面的 AI SaaS 或内容站 | [NEXTY.DEV](https://nexty.dev/?ref=yubin)             | 中文页面和文档友好，功能覆盖认证、支付、AI、CMS、后台、文件存储、数据分析 |
+| 想周末快速做一个 AI SaaS                  | [MkSaaS](https://mksaas.com?atp=wwkjs)                | 明确面向 AI SaaS，包含认证、支付、i18n、newsletter、dashboard、blog、docs、SEO 等 |
+| 想用 AI 辅助编程快速改模板                | [ShipAny](https://shipany.ai/?ivt=wwkjs)              | 强调 Vibe Coding，内置 landing、admin、RBAC、CMS、支付、用户、AI 等模块 |
+| 想做 AI 工具导航、产品目录、资源目录      | [DirEasy](https://superdir.focusapps.app?via=dong563) | 专门做 directory/discovery platform，内置目录站变现思路      |
+| 想做英文目录站并靠 SEO/收录/提交收费变现  | [Dirstarter](https://dirstarter.com?atp=wwkjs666)     | 专门为目录站设计，内置支付、SEO、AI 内容、博客和多语言       |
+| 想跟随国外独立开发者经典路线做通用 SaaS   | [ShipFast](https://shipfa.st/)                        | 通用 NextJS boilerplate，覆盖登录、支付、邮件、数据库、SEO、博客等 |
+
+如果你完全不知道选哪个，可以这样判断：
+
+- 做 AI 工具站：先看 [NEXTY.DEV](https://nexty.dev/?ref=yubin)、[MkSaaS](https://mksaas.com?atp=wwkjs)、[ShipAny](https://shipany.ai/?ivt=wwkjs)。
+- 做工具导航站：先看 [DirEasy](https://superdir.focusapps.app?via=dong563)、[Dirstarter](https://dirstarter.com?atp=wwkjs666)。
+- 做英文独立开发者项目：先看 [ShipFast](https://shipfa.st/)。
+- 非技术人员、希望中文资料多一点：优先 [NEXTY.DEV](https://nexty.dev/?ref=yubin)。
+- [wasp-lang/open-saas: A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadcn UI, S3 file upload. AI-ready with tailored AGENTS.md, skills, and Claude Code plugin. One cmd deploy. Powered by Wasp full-stack framework.](https://github.com/wasp-lang/open-saas)：免费 SaaS 启动模板 内置 Stripe 支付 + 认证 + 邮件 + 订阅管理 React + NodeJS + Prisma，拿来就能跑
+
+## 小报童
+
+### 姜胡说
+
+>这本来是咱们姜胡说老伙计，在峨眉山一起搞的一场：72小时线下闭门分享会。
+>没有讲课费。一切花销AA，坐在一起聊聊：我是怎么做短视频的。
+>
+>适逢我又结识了少楠。于是决定把这次分享的精华总结到小报童上来。
+>初步可能就是一个小册子。然后会根据大家在实战中的情况不断增补。
+>再然后是一本书。就和《价值心法》一样，所有的写作营销过程，都是公开的。
+>具体内容还没想好，但至少老伙计们可以看到三套内容：
+>1、我的短视频方法论。原则、经验、技巧。
+>2、站着赚点小钱的全过程
+>3、如何完成一本书
+
+[从素人到百万大V，老伙计们的闭门课](https://xiaobot.net/p/jhs20250718?refer=00e2125a-14ac-4e7f-8738-1b7dd6a62a08)
+
+## SEO教程
+
+1. 哥飞：[养网站防老教程](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MjM5OTIzMzYyMA%3D%3D&action=getalbum&album_id=3147861706030465026&count=3&scene=1)
+2. [网站出海每日分享：月入3千美刀达成，每日分享梳理](https://mp.weixin.qq.com/s/NS7dMsR4yqwqo__urBcLLQ)
 
 ## 📕书籍推荐
+
+### 《价值心法》
+
+- 下载地址：[PDF版下载地址](https://pan.quark.cn/s/b2a746beed42)（**先转存再查看，以防失效**）
+
+《价值心法》本质上讲一件事：**财富不是靠更拼命加班换来的，而是你把“认知—能力—资产”做成一套可复制的闭环：先学会真正有用的自学，再用它做出别人愿意付费的价值，最后用理性投资让钱替你继续干活。**
+
+#### 全书梗概
+
+>你最常见的痛点是：
+>
+>- **忙却穷**：一天到晚在忙，收入仍靠出卖时间，一停就断流；
+>- **学了很多仍不会赚**：收藏一堆课/书，却落不到能卖钱的结果；
+>- **想投资又怕被割**：追热点、凭感觉买，越动越亏。
+>
+>书把破局路径拆成三段（也是全书骨架）：
+>
+>1. **有效自学（把学习能力当元技能）**：用更有结构的阅读/思考/复盘，把知识变成可执行的“方法”，而不是鸡汤库存。
+>2. **正确做事（先把“桶”造出来）**：回到钱的本质——你解决了谁的问题、创造了什么可交易价值；用更接近“小生意/产品化/系统”的方式做事，让你不再只能按小时结算。
+>3. **精准投资（先不死于愚蠢）**：强调资产配置与闲钱纪律，别拿救命钱赌，别用认知缺口去硬扛市场，让复利在稳底盘上跑起来。
+>
+>它反复压住一条价值观：**持续帮人解决问题、把事做对，财富更像“顺带结果”。**
 
 ### 📖 《富爸爸，穷爸爸》
 
